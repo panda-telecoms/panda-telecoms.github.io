@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ぱんだのてちょう</title>
+  <icon>https://panda-telecoms.github.io/avatar.png</icon>
+  <subtitle>旧クジラメモ</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://panda-telecoms.github.io/"/>
+  <updated>2020-06-26T10:31:19.357Z</updated>
+  <id>https://panda-telecoms.github.io/</id>
+  
+  <author>
+    <name>Panda telecoms</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【EC-CUBE4】DoctrineExtensionsでEC-CUBEのDBを多言語化する</title>
+    <link href="https://panda-telecoms.github.io/2020/06/26/%E3%80%90EC-CUBE4%E3%80%91DoctrineExtensions%E3%81%A7EC-CUBE%E3%81%AEDB%E3%82%92%E5%A4%9A%E8%A8%80%E8%AA%9E%E5%8C%96%E3%81%99%E3%82%8B/"/>
+    <id>https://panda-telecoms.github.io/2020/06/26/%E3%80%90EC-CUBE4%E3%80%91DoctrineExtensions%E3%81%A7EC-CUBE%E3%81%AEDB%E3%82%92%E5%A4%9A%E8%A8%80%E8%AA%9E%E5%8C%96%E3%81%99%E3%82%8B/</id>
+    <published>2020-06-26T10:19:14.000Z</published>
+    <updated>2020-06-26T10:31:19.357Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;EC-CUBE4ではフロント画面やメール文はデフォルトでyamlファイルでの多言語化が用意されており&lt;br&gt;(英語だけほかの言語が欲しいなら自前で用意)&lt;br&gt;.envの&lt;code&gt;ECCUBE_LOCALE&lt;/code&gt;の値を切り替えることで言語を切り替えることが可能です
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="EC-CUBE4" scheme="https://panda-telecoms.github.io/tags/EC-CUBE4/"/>
+    
+      <category term="Doctrine" scheme="https://panda-telecoms.github.io/tags/Doctrine/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ぱんだのてちょう</title>
+    <link href="https://panda-telecoms.github.io/2020/06/24/hello-world/"/>
+    <id>https://panda-telecoms.github.io/2020/06/24/hello-world/</id>
+    <published>2020-06-24T02:40:53.909Z</published>
+    <updated>2020-06-24T07:48:42.980Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;ぱんだの仕事メモ&quot;&gt;&lt;a href=&quot;#ぱんだの仕事メモ&quot; class=&quot;headerlink&quot; title=&quot;ぱんだの仕事メモ&quot;&gt;&lt;/a&gt;ぱんだの仕事メモ&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;/&quot;&gt;ポートフォリオ(自己紹介)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="All" scheme="https://panda-telecoms.github.io/tags/All/"/>
+    
+  </entry>
+  
+</feed>
